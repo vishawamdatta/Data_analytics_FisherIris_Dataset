@@ -7,4 +7,4 @@ an attempt to explain the misclassification was done by employing
 PCA and when reduced to 3 dimensions , the closeness of the
 different samples when plotted explained why k means didn’t show
 a good precision or recall.\
-A document containing detailed analysis , results and inferences is also attached along with the source code.\
+A document containing detailed analysis , learnings , results and inferences is also attached along with the source code.
